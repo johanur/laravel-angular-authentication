@@ -1,4 +1,4 @@
-import { SignupComponent } from './components/password/signup/signup.component';
+import { SignupComponent } from './components/signup/signup.component';
 import { RequestResetComponent } from './components/password/request-reset/request-reset.component';
 import { ResponseResetComponent } from './components/password/response-reset/response-reset.component';
 import { LoginComponent } from './components/login/login.component';
